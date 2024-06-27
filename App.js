@@ -1,4 +1,5 @@
 
+import Link from 'react-router-dom';
 import './App.css';
 
 function App() {
@@ -66,7 +67,11 @@ function App() {
             </div>
 
             <div className="frame-2">
-              {/* ảnh */}
+              <img
+                className="akar-icons-search"
+                alt="Akar icons search"
+                src="https://c.animaapp.com/lLxM5gOC/img/akar-icons-search-1.svg"
+              />
 
               <div className="frame-3">
                 <div className="text-wrapper-3">Sign Up</div>
@@ -86,7 +91,11 @@ function App() {
 
                   <p className="text-wrapper-5">Search for places, hotels or restaurants</p>
 
-                  {/* ảnh */}
+                  <img
+                    className="img"
+                    alt="Akar icons search"
+                    src="https://c.animaapp.com/lLxM5gOC/img/akar-icons-search-2.svg"
+                  />
 
                 </div>
 
@@ -106,13 +115,13 @@ function App() {
 
                     </div>
 
-                    {/* ảnh */}
+                    <img className="vector" alt="Vector" src="https://c.animaapp.com/lLxM5gOC/img/vector.svg" />
 
                   </div>
 
                   <div className="rectangle-2" />
                   <div className="group-4">
-                    {/* ảnh */}
+                    <img className="group-5" alt="Group" src="https://c.animaapp.com/lLxM5gOC/img/group-176@2x.png" />
 
                     <div className="group-6">
                       <div className="overlap-group-4">
@@ -127,7 +136,11 @@ function App() {
           </div>
         </div>
         <div className="frame-6">
-          {/* ảnh */}
+          <img
+            className="material-symbols"
+            alt="Material symbols"
+            src="https://c.animaapp.com/lLxM5gOC/img/material-symbols-keyboard-arrow-left.svg"
+          />
 
           <div className="frame-7">
             <div className="text-wrapper-11">1</div>
