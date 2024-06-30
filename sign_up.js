@@ -1,4 +1,4 @@
-
+import React from "react";
 import './sigup.css';
 
 export default function SigUp() {
