@@ -1,0 +1,390 @@
+.default-login {
+    background-color: #fbfbfb;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .default-login .div {
+    background-color: #fbfbfb;
+    height: 1117px;
+    position: relative;
+    width: 1728px;
+  }
+  
+  .default-login .frame {
+    background-color: #000000;
+    height: 1117px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 802px;
+  }
+  
+  .default-login .overlap-group {
+    background-image: url(https://c.animaapp.com/oB3EtN7C/img/adobestock-335689040-preview-1.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 1117px;
+    position: relative;
+  }
+  
+  .default-login .rectangle {
+    background-color: #0000001a;
+    height: 1117px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 802px;
+  }
+  
+  .default-login .image-removebg {
+    height: 80px;
+    left: 104px;
+    object-fit: cover;
+    position: absolute;
+    top: 50px;
+    width: 97px;
+  }
+  
+  .default-login .frame-2 {
+    align-items: flex-start;
+    display: inline-flex;
+    flex-direction: column;
+    gap: 143px;
+    justify-content: center;
+    left: 961px;
+    position: absolute;
+    top: 142px;
+  }
+  
+  .default-login .frame-3 {
+    align-items: flex-start;
+    display: inline-flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 64px;
+    justify-content: center;
+    position: relative;
+  }
+  
+  .default-login .frame-4 {
+    align-items: flex-start;
+    display: inline-flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 16px;
+    justify-content: center;
+    position: relative;
+  }
+  
+  .default-login .frame-5 {
+    align-items: center;
+    display: inline-flex;
+    flex: 0 0 auto;
+    gap: 21px;
+    position: relative;
+  }
+  
+  .default-login .text-wrapper {
+    color: #000000;
+    font-family: "Urbanist", Helvetica;
+    font-size: 48px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .default-login .emoji-waving-hand {
+    height: 45px;
+    position: relative;
+    width: 43.93px;
+  }
+  
+  .default-login .p {
+    color: #5b5b5b;
+    font-family: "Urbanist", Helvetica;
+    font-size: 24px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .default-login .frame-6 {
+    align-items: flex-start;
+    display: inline-flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 72px;
+    position: relative;
+  }
+  
+  .default-login .frame-7 {
+    align-items: flex-start;
+    display: inline-flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 40px;
+    position: relative;
+  }
+  
+  .default-login .frame-8 {
+    align-items: center;
+    border: 1px solid;
+    border-color: #5b5b5b;
+    border-radius: 45px;
+    display: flex;
+    flex: 0 0 auto;
+    gap: 16px;
+    justify-content: center;
+    padding: 24px 40px;
+    position: relative;
+    width: 549px;
+  }
+  
+  .default-login .img {
+    height: 24px;
+    position: relative;
+    width: 24px;
+  }
+  
+  .default-login .text-wrapper-2 {
+    color: #5b5b5b;
+    font-family: "Urbanist", Helvetica;
+    font-size: 24px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .default-login .group {
+    height: 29px;
+    margin-right: -2px;
+    position: relative;
+    width: 551px;
+  }
+  
+  .default-login .rectangle-2 {
+    background-color: #eaeaea;
+    border-radius: 10px;
+    height: 2px;
+    left: 0;
+    position: absolute;
+    top: 16px;
+    width: 237px;
+  }
+  
+  .default-login .rectangle-3 {
+    background-color: #eaeaea;
+    border-radius: 10px;
+    height: 2px;
+    left: 312px;
+    position: absolute;
+    top: 16px;
+    width: 237px;
+  }
+  
+  .default-login .text-wrapper-3 {
+    color: #5b5b5b;
+    font-family: "Urbanist", Helvetica;
+    font-size: 24px;
+    font-weight: 500;
+    left: 262px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    width: 25px;
+  }
+  
+  .default-login .frame-9 {
+    align-items: flex-start;
+    display: inline-flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 28px;
+    position: relative;
+  }
+  
+  .default-login .frame-10 {
+    align-items: flex-start;
+    display: inline-flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 32px;
+    position: relative;
+  }
+  
+  .default-login .div-wrapper {
+    align-items: flex-start;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-color: #b4b4b4;
+    display: flex;
+    flex: 0 0 auto;
+    gap: 10px;
+    padding: 24px 12px;
+    position: relative;
+    width: 549px;
+  }
+  
+  .default-login .text-wrapper-4 {
+    color: #5b5b5b;
+    font-family: "Urbanist", Helvetica;
+    font-size: 20px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .default-login .frame-11 {
+    align-items: center;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-color: #b4b4b4;
+    display: flex;
+    flex: 0 0 auto;
+    justify-content: space-between;
+    padding: 24px 12px;
+    position: relative;
+    width: 549px;
+  }
+  
+  .default-login .frame-12 {
+    align-items: center;
+    display: flex;
+    flex: 0 0 auto;
+    justify-content: space-between;
+    position: relative;
+    width: 549px;
+  }
+  
+  .default-login .frame-13 {
+    align-items: center;
+    display: inline-flex;
+    flex: 0 0 auto;
+    gap: 12px;
+    position: relative;
+  }
+  
+  .default-login .rectangle-4 {
+    border: 1px solid;
+    border-color: #000000;
+    border-radius: 4px;
+    height: 24px;
+    position: relative;
+    width: 24px;
+  }
+  
+  .default-login .text-wrapper-5 {
+    color: #4169e1;
+    font-family: "Urbanist", Helvetica;
+    font-size: 20px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    text-decoration: underline;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .default-login .frame-14 {
+    align-items: flex-start;
+    display: inline-flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 20px;
+    position: relative;
+  }
+  
+  .default-login .frame-15 {
+    align-items: center;
+    background-color: #4169e1;
+    border-radius: 45px;
+    display: flex;
+    flex: 0 0 auto;
+    gap: 16px;
+    justify-content: center;
+    padding: 24px 40px;
+    position: relative;
+    width: 549px;
+  }
+  
+  .default-login .text-wrapper-6 {
+    color: #ffffff;
+    font-family: "Urbanist", Helvetica;
+    font-size: 24px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .default-login .frame-16 {
+    align-items: flex-start;
+    display: inline-flex;
+    flex: 0 0 auto;
+    gap: 12px;
+    position: relative;
+  }
+  
+  .default-login .text-wrapper-7 {
+    color: #000000;
+    font-family: "Urbanist", Helvetica;
+    font-size: 24px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .default-login .text-wrapper-8 {
+    color: #4169e1;
+    font-family: "Urbanist", Helvetica;
+    font-size: 24px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    width: fit-content;
+  }
+
+  @import url("https://fonts.googleapis.com/css?family=Urbanist:500,700,600");
+  @import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+        * {
+          -webkit-font-smoothing: antialiased;
+          box-sizing: border-box;
+        }
+        html,
+        body {
+          margin: 0px;
+          height: 100%;
+        }
+        /* a blue color as a generic focus style */
+        button:focus-visible {
+          outline: 2px solid #4a90e2 !important;
+          outline: -webkit-focus-ring-color auto 5px !important;
+        }
+        a {
+          text-decoration: none;
+        }
