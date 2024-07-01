@@ -1,0 +1,495 @@
+.review {
+  background-color: #fbfbfb;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.review .div-2 {
+  background-color: #fbfbfb;
+  height: 3576px;
+  position: relative;
+  width: 1728px;
+}
+
+.review .frame-2 {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  left: 104px;
+  position: absolute;
+  top: 29px;
+  width: 1521px;
+}
+
+.review .image-removebg-wrapper {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: center;
+  position: relative;
+  width: 349px;
+}
+
+.review .image-removebg {
+  height: 81px;
+  object-fit: cover;
+  position: relative;
+  width: 97px;
+}
+
+.review .frame-3 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 72px;
+  position: relative;
+}
+
+.review .text-wrapper-2 {
+  color: #5b5b5b;
+  font-family: "Urbanist-ExtraBold", Helvetica;
+  font-size: 24px;
+  font-weight: 800;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.review .frame-4 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 43px;
+  position: relative;
+}
+
+.review .akar-icons-search {
+  height: 28px;
+  position: relative;
+  width: 28px;
+}
+
+.review .frame-5 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 24px;
+  position: relative;
+}
+
+.review .text-wrapper-3 {
+  color: #4169e1;
+  font-family: "Urbanist-ExtraBold", Helvetica;
+  font-size: 24px;
+  font-weight: 800;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+
+.review .div-wrapper {
+  align-items: center;
+  background-color: #4169e1;
+  border-radius: 40px;
+  display: flex;
+  gap: 10px;
+  height: 61px;
+  justify-content: center;
+  padding: 10px;
+  position: relative;
+  width: 167px;
+}
+
+.review .text-wrapper-4 {
+  color: #ffffff;
+  font-family: "Urbanist-Bold", Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+
+.review .frame-6 {
+  align-items: center;
+  border: 1px solid;
+  border-color: #a9a7a7;
+  border-radius: 80px;
+  display: flex;
+  height: 78px;
+  justify-content: space-between;
+  left: 408px;
+  padding: 21px 46px;
+  position: absolute;
+  top: 548px;
+  width: 912px;
+}
+
+.review .p {
+  color: #a9a9a9;
+  font-family: "Urbanist-Medium", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.review .img {
+  height: 32px;
+  position: relative;
+  width: 32px;
+}
+
+.review .frame-wrapper {
+  background-color: #4169e1;
+  height: 458px;
+  left: 0;
+  position: absolute;
+  top: 3118px;
+  width: 1728px;
+}
+
+.review .frame-7 {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 32px;
+  left: 655px;
+  position: relative;
+  top: 139px;
+}
+
+.review .image-removebg-2 {
+  height: 120px;
+  object-fit: cover;
+  position: relative;
+  width: 147px;
+}
+
+.review .text-wrapper-5 {
+  color: #ffffff;
+  font-family: "Urbanist-SemiBold", Helvetica;
+  font-size: 24px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+
+.review .text-wrapper-6 {
+  color: #000000;
+  font-family: "Urbanist-ExtraBold", Helvetica;
+  font-size: 60px;
+  font-weight: 800;
+  left: 258px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 251px;
+  width: 1212px;
+}
+
+.review .frame-8 {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  left: 104px;
+  position: absolute;
+  top: 774px;
+  width: 1520px;
+}
+
+.review .frame-9 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 20px;
+  position: relative;
+}
+
+.review .text-wrapper-7 {
+  color: #000000;
+  font-family: "Urbanist-Bold", Helvetica;
+  font-size: 48px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.review .text-wrapper-8 {
+  color: #3f3f3f;
+  font-family: "Urbanist-Medium", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+
+.review .frame-10 {
+  align-items: flex-start;
+  border: 1px solid;
+  border-color: #4169e1;
+  border-radius: 40px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 14px;
+  padding: 20px 32px;
+  position: relative;
+}
+
+.review .text-wrapper-9 {
+  color: #4169e1;
+  font-family: "Urbanist-SemiBold", Helvetica;
+  font-size: 24px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.review .frame-11 {
+  align-items: center;
+  display: inline-flex;
+  gap: 104px;
+  left: 104px;
+  position: absolute;
+  top: 985px;
+}
+
+.review .image {
+  height: 491px;
+  object-fit: cover;
+  position: relative;
+  width: 596px;
+}
+
+.review .frame-12 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 56px;
+  position: relative;
+}
+
+.review .frame-13 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 48px;
+  position: relative;
+}
+
+.review .frame-14 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 32px;
+  position: relative;
+  width: 490px;
+}
+
+.review .text-wrapper-10 {
+  color: #5b5b5b;
+  font-family: "Urbanist-Medium", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  width: 157px;
+}
+
+.review .frame-15 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 18px;
+  position: relative;
+}
+
+.review .frame-16 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 14px;
+  position: relative;
+}
+
+.review .text-wrapper-11 {
+  color: #000000;
+  font-family: "Urbanist-Bold", Helvetica;
+  font-size: 42px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  width: 549px;
+}
+
+.review .frame-17 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+  width: 744px;
+}
+
+.review .text-wrapper-12 {
+  color: #000000;
+  font-family: "Urbanist-Medium", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  width: 744px;
+}
+
+.review .frame-1576 {
+  flex: 0px 0px auto !important;
+}
+
+
+
+.review .frame-18 {
+  align-items: center;
+  display: inline-flex;
+  gap: 104px;
+  left: 104px;
+  position: absolute;
+  top: 1580px;
+}
+
+.review .image-wrapper {
+  background-image: url("https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRGyCi4yX_2YDLvI8anwB03gKPedp40ZumjbHG11xw0yQ1HIYJ-");
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 32px;
+  height: 491px;
+  overflow: hidden;
+  position: relative;
+  width: 596px;
+}
+
+.review .image-2 {
+  height: 491px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 596px;
+}
+
+.review .text-wrapper-13 {
+  color: #5b5b5b;
+  font-family: "Urbanist-Medium", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  width: 181px;
+}
+
+.review .overlap-group {
+  height: 491px;
+  left: 104px;
+  position: absolute;
+  top: 2213px;
+  width: 1444px;
+}
+
+.review .frame-19 {
+  align-items: center;
+  display: inline-flex;
+  gap: 104px;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.review .img-wrapper {
+  background-image: url("https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQepICHsSweegj1ZaudqNnQNI4sV0MslhbCZlVOTqHmZQ0ZcDhO");
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 24px;
+  height: 491px;
+  overflow: hidden;
+  position: relative;
+  width: 596px;
+}
+
+.review .text-wrapper-14 {
+  color: #5b5b5b;
+  font-family: "Urbanist-Medium", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  width: 201px;
+}
+
+.review .frame-20 {
+  background-image: url("https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQepICHsSweegj1ZaudqNnQNI4sV0MslhbCZlVOTqHmZQ0ZcDhO");
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 24px;
+  height: 491px;
+  overflow: hidden;
+  position: relative;
+  width: 596px;
+}
+
+
+  @import url("https://fonts.googleapis.com/css?family=Urbanist:500,700");
+  @import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+        * {
+          -webkit-font-smoothing: antialiased;
+          box-sizing: border-box;
+        }
+        html,
+        body {
+          margin: 0px;
+          height: 100%;
+        }
+        /* a blue color as a generic focus style */
+        button:focus-visible {
+          outline: 2px solid #4a90e2 !important;
+          outline: -webkit-focus-ring-color auto 5px !important;
+        }
+        a {
+          text-decoration: none;
+        }
+  
