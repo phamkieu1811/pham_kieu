@@ -11,7 +11,7 @@ Project title: Beauty Of Beaches
 
 ========> Group 4 <=========
 
-3 collaborators:
+4 collaborators:
 
                 Nguyen Hoang Minh  Student1559711
                 Nguyen Bao Quan    Student1559717
